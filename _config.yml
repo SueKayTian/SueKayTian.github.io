@@ -1,11 +1,8 @@
 title: John Smith
 description: My Personal Blog
 author: John Smith
-<<<<<<< HEAD
 logo: /assets/wechat.JPG
-=======
-logo: E:/wechat.JPG
->>>>>>> a9cbfa7d60eb9b37847a28519b32828789c4b624
+
 github: https://github.com/codeasashu
 about: Freelance developer
 
